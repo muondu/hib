@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">My school</h3>
+  <h3 align="center">Poverty and Polution</h3>
 
   <p align="center">
-    This is website is about my school <br>
+    This is website is about poverty and poution <br>
    <br>
     </p>
 </p>
@@ -27,7 +27,7 @@
 
 ### About the website
 
-This is a  website made by the youtuber Nero Nesh. This website is about my school. 
+This is a  website made by the youtuber Nero Nesh. This website is about povert and poution and how to solve this problems
 
 #### Technology Used
 This project uses:
