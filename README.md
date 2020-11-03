@@ -32,7 +32,7 @@ This is a  website made by the youtuber Nero Nesh. This website is about povert 
 #### Technology Used
 This project uses:
     Html
-    Css
+    Java script
 #### Running the project
 Stuff you need to have so the project can run properly:
 
